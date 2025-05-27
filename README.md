@@ -53,5 +53,5 @@ This project involves an in-depth analysis of customer data for Aerofit treadmil
 ## 🚀 Author
 **Ayush Karak**  
 Data Science Enthusiast | Cognizant | Scaler DSML Program  
-📧 ayush@example.com (replace with your email or LinkedIn)
+📧 1ayushkarak2@gmail.com 
 
